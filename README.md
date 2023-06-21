@@ -1,5 +1,5 @@
 # LPI
-
+` Last update jun 21 2023 `
 ## INTRODUCTION
 Its development was started in 1991 by Linus
 Torvalds. The operating system was inspired by Unix, another operating system developed in the
@@ -33,4 +33,16 @@ The company SUSE was founded in 1992 in Germany as a Unix service provider. The 
 
 Independent distributions have been released over the years. Some of them are based on either Red Hat or Ubuntu, some are designed to improve a specific propriety of a system or hardware. There are distributions built with specific functionalities like QubesOS, a very secure desktop environment, or Kali Linux, which provides an environment for exploiting software vulnerabilities, mainly used by penetration testers. Recently various super small Linux distributions are designed to specifically run in Linux containers, such as Docker. There are also distributions built specifically for components of embedded systems and even smart devices.
 
-### Embedded Systems @here@you@stayed
+## Embedded Systems
+Embedded systems are a combination of computer hardware and software designed to have a
+specific function within a larger system. Usually they are part of other devices and help to control
+these devices. Embedded systems are found in automotive, medical and even military
+applications. Due to its wide variety of applications, a variety of operating systems based on the
+Linux kernel was developed in order to be used in embedded systems. A significant part of smart devices have a Linux kernel based operating system running on it.Therefore, with embedded systems comes embedded software. The purpose of this software is to access the hardware and make it usable. The major advantages of Linux over any proprietary embedded software include cross vendor platform compatibility, development, support and no license fees. Two of the most popular embedded software projects are Android, that is mainly used on mobile phones across a variety of vendors and Raspbian, which is used mainly on
+Raspberry Pi.
+
+### Android
+
+### Raspbian and the Raspberry Pi
+
+##Linux and the Cloud @@@here@you@stayed
