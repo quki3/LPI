@@ -1,5 +1,5 @@
 # LPI
-` Last update jun 21 2023 `
+` Last update jun 22 2023 `
 ## INTRODUCTION
 Its development was started in 1991 by Linus
 Torvalds. The operating system was inspired by Unix, another operating system developed in the
@@ -45,4 +45,6 @@ Raspberry Pi.
 
 ### Raspbian and the Raspberry Pi
 
-##Linux and the Cloud @@@here@you@stayed
+## Linux and the Cloud
+
+## 1.2 Major open source application @@@@I stayed here
