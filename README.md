@@ -1,5 +1,5 @@
 # LPI
-` Last update jun 22 2023 `
+` Last update jun 23 2023 `
 ## INTRODUCTION
 Its development was started in 1991 by Linus
 Torvalds. The operating system was inspired by Unix, another operating system developed in the
